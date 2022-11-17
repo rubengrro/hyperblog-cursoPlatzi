@@ -33,10 +33,6 @@ font-size: 20px;
 }
 #cabecera span {
     font-weight: normal;
-<<<<<<< HEAD
-    font-size: 18px;
-}
-=======
     font-size: 0.8em;
 }
 .footer{  
@@ -50,4 +46,3 @@ font-size: 20px;
     font-size: 15px;
     border-top: 3px solid rgb(211, 193, 193);
     }
->>>>>>> footer
